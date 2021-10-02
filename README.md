@@ -1,1 +1,3 @@
-# daily-life-management
+# daily-life-management (ASP .NET)
+
+Example: Wake-up to Sleep all work in one site...
